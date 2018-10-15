@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Education"
+collection: education
+author_profile: true
+permalink: /education/ 
+---
 * Imperial College London, 2017-2018
   * M.Res. in Medical Robotics & Image Guide Intervention
   * Distinction, GPA: 77%
