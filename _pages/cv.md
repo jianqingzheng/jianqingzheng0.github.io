@@ -27,7 +27,11 @@ Awards
 * Outstanding Student (Top 3%), Xi'an Jiaotong-Liverpool University, 2015
 * Second Prize Winner, Mathematical Contest in Modelling, Xi'an Jiaotong-Liverpool University, 2014
 * Accomplished Competitor, University Physics Competition, American Physical Society, 2014
-* Excellent Student, Xi'an Jiaotong-Liverpool University,2013
+* Excellent Student, Xi'an Jiaotong-Liverpool University, 2013
+
+Research and Thesis
+======
+*Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)
 
 Work experience
 ======
