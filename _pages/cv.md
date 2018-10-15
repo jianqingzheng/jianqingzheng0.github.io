@@ -11,9 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Imperial College London, 2017-2018
+  * M.Res. in Medical Robotics & Image Guide Intervention
+  * Distinction, GPA: 77%
+* University of Liverpool, 2015-2017
+  * B.Eng. (Hons) in Electrical and Eletctronic Engineering
+  * First Class Honours, GPA: 78%
+* Xi'an Jiaotong-Liverpool University, 2013-2015
+  * B.Eng. in Telecommunication Engineering
+
+Awards
+======
+* £6000 Bursary, The Hamlyn Centre for Robotic Surgery, Imperical College London, 2017
+* Honourable Mention, Interdisciplinary Contests in Modelling, COMAP, 2015
+* Outstanding Student (Top 3%), Xi'an Jiaotong-Liverpool University, 2015
+* Second Prize Winner, Mathematical Contest in Modelling, Xi'an Jiaotong-Liverpool University, 2014
+* Accomplished Competitor, University Physics Competition, American Physical Society, 2014
+* Excellent Student, Xi'an Jiaotong-Liverpool University,2013
 
 Work experience
 ======
