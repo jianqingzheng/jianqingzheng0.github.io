@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Hello world!"
@@ -10,6 +9,6 @@ redirect_from:
 ---
 
 “The explanation requiring the fewest assumptions is most likely to be correct.”
-\n
+\\
 -- William of Ockham 
 
