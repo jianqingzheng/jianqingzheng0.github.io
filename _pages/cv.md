@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* Imperial College London, 2017-2018
-  * M.Res. in Medical Robotics & Image Guide Intervention
+* <i>Imperial College London</i>, 2017-2018
+  * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
   * Distinction, GPA: 77%
-* University of Liverpool, 2015-2017
-  * B.Eng. (Hons) in Electrical and Eletctronic Engineering
+* <i>University of Liverpool</i>, 2015-2017
+  * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering</b>
   * 1st Class Honours, GPA: 78%
-* Xi'an Jiaotong-Liverpool University, 2013-2015
-  * B.Eng. in Telecommunication Engineering
+* <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
+  * <b>B.Eng. in Telecommunication Engineering</b>
 
 Awards
 ======
-* £6000 Bursary, The Hamlyn Centre for Robotic Surgery, Imperical College London, 2017
-* Honourable Mention, Interdisciplinary Contests in Modelling, COMAP, 2015
+* £6000 Bursary, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
+* Honourable Mention, Interdisciplinary Contests in Modelling, <i>COMAP</i>, 2015
 * Outstanding Student (Top 3%), Xi'an Jiaotong-Liverpool University, 2015
-* Second Prize Winner, Mathematical Contest in Modelling, Xi'an Jiaotong-Liverpool University, 2014
-* Accomplished Competitor, University Physics Competition, American Physical Society, 2014
+* Second Prize Winner, Mathematical Contest in Modelling, <i>Xi'an Jiaotong-Liverpool University</i>, 2014
+* Accomplished Competitor, University Physics Competition, <i>American Physical Society</i>, 2014
 * Excellent Student, Xi'an Jiaotong-Liverpool University, 2013
 
 Research and Thesis
@@ -48,7 +48,7 @@ Work experience
 * 2018 <b>Research Assistant</b>, <i>Imperial College London</i>
   * Studying on the shape instantiation of partially-deployed stent-graft and the prediction of fully- deployed stent-graft from a fluoroscopy for navigation in robot-assisted Fenestrated Endovascular Aortic Repair (FEVAR).
 
-* 2017 <b>Technical Development and Algorithm Design Intern</b>, AlgoLib Ltd.
+* 2017 <b>Technical Development and Algorithm Design Intern</b>, <i>AlgoLib Ltd</i>.
   * Designed a recursive enumeration algorithm and combined it with dynamic programming to find the products’ prices using the longest increasing period. Obtained step matrices using dynamic programming to search the longest common subarray of increasing natural numbers in the issue-date array of the sorted prices. Cut processing time down from 8 hours using the company’s original traversing algorithm to 30 minutes with the designed algorithm. Additionally, applied ARIMA and ARFIMA and Recurrent Neural Network (RNN) to fit previous prices and predict future prices in Python.
   
 Skills
