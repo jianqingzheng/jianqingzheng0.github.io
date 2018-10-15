@@ -16,7 +16,7 @@ Education
   * Distinction, GPA: 77%
 * University of Liverpool, 2015-2017
   * B.Eng. (Hons) in Electrical and Eletctronic Engineering
-  * First Class Honours, GPA: 78%
+  * 1st Class Honours, GPA: 78%
 * Xi'an Jiaotong-Liverpool University, 2013-2015
   * B.Eng. in Telecommunication Engineering
 
@@ -32,6 +32,7 @@ Awards
 Research and Thesis
 ======
 *Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)
+  *Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of gray value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. Extracted the centrelines of AAA from CTA and fluoroscopy image. Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.
 
 Work experience
 ======
