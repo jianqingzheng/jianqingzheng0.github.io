@@ -249,6 +249,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _patent
+  - scope:
+      path: ""
+      type: patent
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
