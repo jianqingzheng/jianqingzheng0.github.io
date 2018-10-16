@@ -185,6 +185,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  patent:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
