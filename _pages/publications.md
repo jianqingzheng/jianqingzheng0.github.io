@@ -17,4 +17,6 @@ author_profile: true
 {% endfor %}
 
 ## <i>Patent</i>
-
+{% for post in site.patent reversed %}
+  {% include archive-single.html %}
+{% endfor %}
