@@ -66,6 +66,11 @@ Skills
 
 Publications
 ======
+## <i>Conference</i>
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+## <i>Patent</i>
+  <ul>{% for post in site.patent %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
