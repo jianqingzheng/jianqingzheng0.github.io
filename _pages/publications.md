@@ -10,13 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<br></br>
+<br>
 
 # <i>Conference</i>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-<br></br>
+<br>
 
 # <i>Patent</i>
 {% for post in site.patent reversed %}
