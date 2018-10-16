@@ -11,12 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-## <i>Conference</i>
+# <i>Conference</i>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## <i>Patent</i>
+# <i>Patent</i>
 {% for post in site.patent reversed %}
   {% include archive-single.html %}
 {% endfor %}
