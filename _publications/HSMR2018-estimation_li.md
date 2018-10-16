@@ -1,4 +1,4 @@
- ---
+---
 title: "Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation"
 collection: publications
 permalink: /publication/HSMR2018-estimation_li
