@@ -1,5 +1,5 @@
 ---
-title: "Motor Imagery Classification based on RNNs with Spatiotemporal-Energy Feature Extraction"
+title: "Logic-controlled capacitive touch-sensing device"
 collection: publications
 permalink: /publication/UMP2016-logic_zheng
 excerpt: ''
