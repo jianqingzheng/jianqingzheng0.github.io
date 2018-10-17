@@ -13,13 +13,11 @@ permalink: /research/
 ### <rm>2018</rm> <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * Imperial College London, London, UK
 * Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of gray value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. Extracted the centrelines of AAA from CTA and fluoroscopy image. Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.
-  
 
 
-
-
-* 2016 <b>Load Frequency Control of a Smart Grid</b>
-  * Built a model of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system.
+### <rm>2016</rm> <b>Load Frequency Control of a Smart Grid</b>
+* University of Liverpool, Liverpool, UK
+* Built a model of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system.
 
 
 
