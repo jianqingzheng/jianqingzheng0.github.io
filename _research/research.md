@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Individual Project
 
-### <rm>2018</rm> <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
+2018### <rm>2018</rm> <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * Imperial College London, London, UK
 * Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of gray value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. Extracted the centrelines of AAA from CTA and fluoroscopy image. Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.
 
@@ -23,6 +23,8 @@ permalink: /research/
 
 * 2015 <b>Image Mosaic of Unmanned Aerial Vehicle</b>
   * Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm to registry images based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
+
+---
 
 ## Collaborated Project
 
