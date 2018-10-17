@@ -19,7 +19,7 @@ permalink: /research/
 * Built a model of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system.
 
 ### <b>Image Mosaic of Unmanned Aerial Vehicle</b>
-* 2015, _University of Liverpool, Liverpool, UK_
+* 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
 * Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm to registry images based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
 
 ---
@@ -29,13 +29,14 @@ permalink: /research/
 ### <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
 * 2018, _Imperial College London, London, UK_
 * Theoretically analysed the receptive field (RF) with dilated (atrous) rate setting and the truncation effect. Obtained and proved a general solution of atrous rate setting for a uniform distributed RF while large and fully covered RF guaranteed. Proposed a novel network, Atrous Convolutional Neural Network (ACNN) with skip connections and multi-scale consideration as an example for semantic segmentation. Validated ACNN on three bio-medical datasets with high-resolution feature map propagation and reasonable segmentation results, reducing the number of variables by 99.75%, and achieving a reasonable DSC of 0.6~0.7.
-* Contribution: Theoretical analysed and simulated the effect of atrous rate on the receptive field, and the truncation effect. Processed data and evaluated segmentation results.
+* __Contribution__: Theoretical analysed and simulated the effect of atrous rate on the receptive field, and the truncation effect. Processed data and evaluated segmentation results.
 
 ### <b>Brain-Computer Interface Framework for NAO Robot</b>
 * 2017, _Imperial College London, London, UK_
 * Removed the artefacts caused by electromyography and electrooculography from electroencephalograph (EEG) signals using Wavelet Analysis. Extracted the features of the EEG signals using Common Spatial Pattern filter. Used Linear Discriminant Analysis, Support Vector Machine, Convolutional Neural Network and RNN to classified two (and three) kinds of imaginary motion. Transmitted classified data to the second computer with SSH protocol by Python-Socket for real-time control of one NAO robot out of a maze. Implemented colourized boundary distance measurement using histogram equalization to enhance contrast, a Laplacian filter to detect edge and a homogeneous transformation to reconstruct the 3-D coordinates.
-  
+* __Contribution__:
+
 ### <b>Smartphone Download-Management System</b>
-* 2016, University of Liverpool, Liverpool, UK
+* 2016, _University of Liverpool, Liverpool, UK_
 * Built a model of Wi-Fi and 3G data transmissions using MATLAB. Simulated a process of file generation and downloads to optimize the downloading process. Designed strategies for priority ranking, and optimized loss functions. Implemented the data dynamic visualization of download values and download size for different strategies. Quantified the performance of each strategy according to the size and value of downloaded documents, tested the simulation in multiple internet environments, and selected the optimal strategies for most cases.
-* Contribution: Leaded the group. Designed the framework and downloading strategies. Implemented the file generation and data visualization.
+* __Contribution__: Leaded the group. Designed the framework and downloading strategies. Implemented the file generation and data visualization.
