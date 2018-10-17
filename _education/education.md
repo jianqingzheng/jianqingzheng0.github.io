@@ -65,6 +65,7 @@ permalink: /education/
   * The Modernization Process of China
   * Physical Education 1
   * Physical Education 2
-  
+<br>
+
 # Awards
 
