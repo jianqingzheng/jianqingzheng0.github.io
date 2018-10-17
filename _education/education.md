@@ -21,10 +21,10 @@ permalink: /education/
 * Courses:
   * Signals and Systems
   * Field Theory, Partial Differential Equation and Method of Solution
-  * Instrumentation and Control System
-  * Digital Control and Optimization
+  * Instrumentation and Control System
+  * Digital Control and Optimization
   * Electrical Circuits and Power Systems
-  * Communication Systems
+  * Communication Systems
   * Electromagnetics
   * CMOS Integrated Circuits
   * Electronic Circuits And Systems
