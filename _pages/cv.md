@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 ---
-Education
-======
+# Education
+
 * <i>Imperial College London</i>, 2017-2018
   * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
   * Distinction, GPA: 77%
@@ -20,8 +20,8 @@ Education
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
   * <b>B.Eng. in Telecommunication Engineering</b>
 ---
-Awards
-======
+# Awards
+
 * <b>£6000 Bursary</b>, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
 * <b>Honourable Mention</b>, Interdisciplinary Contests in Modelling, <i>COMAP</i>, 2015
 * <b>Outstanding Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2015
@@ -29,8 +29,8 @@ Awards
 * <b>Accomplished Competitor</b>, University Physics Competition, <i>American Physical Society</i>, 2014
 * <b>Excellent Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2013
 ---
-Research and Thesis
-======
+# Research and Thesis
+
 * 2018 <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
   * Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of gray value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. Extracted the centrelines of AAA from CTA and fluoroscopy image. Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.
   
@@ -49,23 +49,23 @@ Research and Thesis
 * 2015 <b>Image Mosaic of Unmanned Aerial Vehicle</b>
   * Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm to registry images based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
 ---
-Work experience
-======
+# Work experience
+
 * 2018 <b>Research Assistant</b>, <i>Imperial College London</i>
   * Studying on the shape instantiation of partially-deployed stent-graft and the prediction of fully- deployed stent-graft from a fluoroscopy for navigation in robot-assisted Fenestrated Endovascular Aortic Repair (FEVAR).
 
 * 2017 <b>Technical Development and Algorithm Design Intern</b>, <i>AlgoLib Ltd</i>.
   * Designed a recursive enumeration algorithm and combined it with dynamic programming to find the products’ prices using the longest increasing period. Obtained step matrices using dynamic programming to search the longest common subarray of increasing natural numbers in the issue-date array of the sorted prices. Cut processing time down from 8 hours using the company’s original traversing algorithm to 30 minutes with the designed algorithm. Additionally, applied ARIMA and ARFIMA and Recurrent Neural Network (RNN) to fit previous prices and predict future prices in Python.
 ---
-Skills
-======
+# Skills
+
 * <b>Languages</b>
   * Mandarin (Native), English (Fluent)
 * <b>Computer</b>
   * MATLAB, Python, C, C++, AHDL
 ---
-Publications
-======
+# Publications
+
 ## <i>Conference</i>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
