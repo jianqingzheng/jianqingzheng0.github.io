@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ---
+
 # Education
 
 * <i>Imperial College London</i>, 2017-2018
@@ -19,7 +20,9 @@ redirect_from:
   * 1st Class Honours, GPA: 78%
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
   * <b>B.Eng. in Telecommunication Engineering</b>
+ 
 ---
+
 # Awards
 
 * <b>£6000 Bursary</b>, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
@@ -28,7 +31,9 @@ redirect_from:
 * <b>Second Prize Winner</b>, Mathematical Contest in Modelling, <i>Xi'an Jiaotong-Liverpool University</i>, 2014
 * <b>Accomplished Competitor</b>, University Physics Competition, <i>American Physical Society</i>, 2014
 * <b>Excellent Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2013
+
 ---
+
 # Research and Thesis
 
 * 2018 <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
@@ -48,7 +53,9 @@ redirect_from:
 
 * 2015 <b>Image Mosaic of Unmanned Aerial Vehicle</b>
   * Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm to registry images based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
+  
 ---
+
 # Work experience
 
 * 2018 <b>Research Assistant</b>, <i>Imperial College London</i>
@@ -56,14 +63,18 @@ redirect_from:
 
 * 2017 <b>Technical Development and Algorithm Design Intern</b>, <i>AlgoLib Ltd</i>.
   * Designed a recursive enumeration algorithm and combined it with dynamic programming to find the products’ prices using the longest increasing period. Obtained step matrices using dynamic programming to search the longest common subarray of increasing natural numbers in the issue-date array of the sorted prices. Cut processing time down from 8 hours using the company’s original traversing algorithm to 30 minutes with the designed algorithm. Additionally, applied ARIMA and ARFIMA and Recurrent Neural Network (RNN) to fit previous prices and predict future prices in Python.
+  
 ---
+
 # Skills
 
 * <b>Languages</b>
   * Mandarin (Native), English (Fluent)
 * <b>Computer</b>
   * MATLAB, Python, C, C++, AHDL
+  
 ---
+
 # Publications
 
 ## <i>Conference</i>
