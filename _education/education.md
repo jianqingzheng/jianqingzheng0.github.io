@@ -67,6 +67,7 @@ permalink: /education/
   * Physical Education 2
 <br>
 
+
 # Awards
 * <b>£6000 Bursary</b>, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
 * <b>Honourable Mention</b>, Interdisciplinary Contests in Modelling, <i>COMAP</i>, 2015
