@@ -12,7 +12,7 @@ permalink: /research/
 
 ### <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * 2018, _Imperial College London, London, UK_
-* __Motivation__: To navigate robot assisted fenestrated endovascular aortic repair.
+* __Motivation__: To navigate robot-assisted fenestrated endovascular aortic repair.
 * __Pipeline__: Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of gray value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. Extracted the centrelines of AAA from CTA and fluoroscopy image. Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.
 
 ### <b>Load Frequency Control of a Smart Grid</b>
@@ -35,6 +35,12 @@ permalink: /research/
 * __Pipeline__: Theoretically analysed the receptive field (RF) with dilated (atrous) rate setting and the truncation effect. Obtained and proved a general solution of atrous rate setting for a uniform distributed RF while large and fully covered RF guaranteed. Proposed a novel network, Atrous Convolutional Neural Network (ACNN) with skip connections and multi-scale consideration as an example for semantic segmentation. Validated ACNN on three bio-medical datasets with high-resolution feature map propagation and reasonable segmentation results, reducing the number of variables by 99.75%, and achieving a reasonable DSC of 0.6~0.7.
 * __Contribution__: Theoretical analysed and simulated the effect of atrous rate on the receptive field, and the truncation effect. Processed data and evaluated segmentation results.
 
+### Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation
+* 2018, _Imperial College London, London, UK_
+* __Motivation__: To estimate tissue oxygen saturation directly from RGB images witout hyperspectral images for a seamless integration of the proposed method into surgical and diagnostic workflows with standard endoscope systems.
+* __Pipeline__: Simulated RGB images and calculated the oxygen saturation from given hyperspectral images. Augmented data by flipping and cropping with a slide-window. Fed the simulated RGB images and the calculated oxygen saturation to train a conditional Generative Adversarial Network (cGAN). Estimated tissue oxygen using pixel-level image-to-image translation by cGAN. Evaluated prediction results using with different batch size and weight coefficient.
+* __Contribution__: Programed data processing and data augmentation.
+
 ### <b>Brain-Computer Interface Framework for NAO Robot</b>
 * 2017, _Imperial College London, London, UK_
 * __Motivation__: To build a brain-computer interface network with electroencephalograph signals for robot control.
@@ -50,5 +56,5 @@ permalink: /research/
 ### Big Data Challenge, Interdisciplinary Contest in Modeling, COMAP
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
 * __Motivation__: To quantify and optimize the investment strategies to universities with a large dataset.
-* __Pipeline__: Replaced outlier and missing data using linear interpolation and averaging. Reduced the dimensions of the feature space with principal component analysis to create an optimized investment strategy for hundreds of universities. Fitted a characteristic curve of investment and performance indexes weighted according to the result of the PCA using a Back-Propagation Neural Network. Utilized the Stochastic Gradient Descent method to minimize the cost function based on the Euclidean distance with various, random initial points.
-* __Contribution__: 
+* __Pipeline__: Replaced outlier and missing data using linear interpolation and averaging. Reduced the dimensions of the feature space with principal component analysis. Fitted a characteristic curve of investment and performance indexes weighted according to the result of the PCA using a Back-Propagation Neural Network (BP-NN). Utilized the Stochastic Gradient Descent method to minimize the cost function based on the Euclidean distance with various, random initial points.
+* __Contribution__: Programed data preprocessing including normalization, data cleaning, as well as dimension reduction. Implemented BP-NN and optimization using MATLAB toolbox.
