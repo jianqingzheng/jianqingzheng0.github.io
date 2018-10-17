@@ -37,5 +37,5 @@ permalink: /education/
   * Electromagnetic Compatibility
   * Embedded Computer Systems
 
-* <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
-  * <b>B.Eng. in Telecommunication Engineering</b>
+# <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
+* <b>B.Eng. in Telecommunication Engineering</b>
