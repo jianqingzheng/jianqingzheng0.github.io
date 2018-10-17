@@ -33,8 +33,8 @@ permalink: /research/
 
 ### <b>Brain-Computer Interface Framework for NAO Robot</b>
 * 2017, _Imperial College London, London, UK_
-* Removed the artefacts caused by electromyography and electrooculography from electroencephalograph (EEG) signals using Wavelet Analysis. Extracted the features of the EEG signals using Common Spatial Pattern filter. Used Linear Discriminant Analysis, Support Vector Machine, Convolutional Neural Network and RNN to classified two (and three) kinds of imaginary motion. Transmitted classified data to the second computer with SSH protocol by Python-Socket for real-time control of one NAO robot out of a maze. Implemented colourized boundary distance measurement using histogram equalization to enhance contrast, a Laplacian filter to detect edge and a homogeneous transformation to reconstruct the 3-D coordinates.
-* __Contribution__:
+* Removed the artefacts caused by electromyography and electrooculography from electroencephalograph (EEG) signals using Wavelet Analysis. Extracted the features of the EEG signals using Common Spatial Pattern (CSP) filter. Used Linear Discriminant Analysis (LDA), Support Vector Machine (SVM), Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) to classified two kinds of imaginary motion. Transmitted classified data to the second computer with SSH protocol by Python-Socket for real-time control of one NAO robot. Implemented colourized boundary distance measurement using histogram equalization to enhance contrast, a Laplacian filter to detect edge and a homogeneous transformation to reconstruct the 3-D coordinates. Controlled a NAO robot to walk out of a maze with EEG.
+* __Contribution__: Optimized the algorithm of artefact removal. Extracted feature using CSP filter. Classfied EEG signal using LDA in MATLAB and OpenVibe as well as kernal SVM in OpenVibe. Transmitted classified data with SSH. 
 
 ### <b>Smartphone Download-Management System</b>
 * 2016, _University of Liverpool, Liverpool, UK_
