@@ -19,8 +19,8 @@ permalink: /education/
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering</b>
 * 1st Class Honours, GPA: 78%
 * Courses:
-  * Signals and Systems
-  * Field Theory, Partial Differential Equation and Method of Solution
+  * Signals and Systems
+  * Field Theory, Partial Differential Equation and Method of Solution
   * Instrumentation and Control System
   * Digital Control and Optimization
   * Electrical Circuits and Power Systems
