@@ -36,9 +36,35 @@ permalink: /education/
   * Engineering Management and Entrepreneurial Skills
   * Electromagnetic Compatibility
   * Embedded Computer Systems
+  * Digital Electronics and Microprocessor Systems
 
 ## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
 * <b>B.Eng. in Telecommunication Engineering</b>
-
+* Courses:
+  * Linear Algebra
+  * Calculus (Science & Engineering)
+  * Multivariable Calculus (Science and Engineering)
+  * Physics
+  * Fundamentals of Computer Programming
+  * Engineering Mathematics I
+  * Engineering Mathematics II
+  * Electrical Circuits I
+  * Electronic Circuits
+  * Digital Electronics I
+  * C Programming and Software Engineering I
+  * C++ Programming and Software Engineering II
+  * Engineering Electromagnetism and Drives
+  * Integrated Electronics and Design
+  * Experimental, Computer Skills and Sustainability
+  * English Language and Study Skills I for Engineering
+  * English Language and Study Skills II for Engineering
+  * English Language and Study Skills III for Engineering
+  * Self-management
+  * Introduction to Literature and Media Culture
+  * Ideological and Moral Cultivation and Basis of Law
+  * The Modernization Process of China
+  * Physical Education 1
+  * Physical Education 2
+  
 # Awards
 
