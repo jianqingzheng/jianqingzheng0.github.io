@@ -23,6 +23,29 @@ permalink: /education/
   </div>
 </fieldset>
 
+<div class="save">
+  <h1><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)">
+    <span class="dspchar">+</span> heading</a></h1>
+  <div class="dspcont">section</div>
+  <!--以上部分是第一个heading,h1中有个onclick触发了JS中的dsp(loc)函数,初始的+号是在class为dspcont的<span>里的,初始隐藏的内容则是在class为dspcont的div里的-->
+  <h1><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)">
+    <span class="dspchar">+</span> heading</a>
+  </h1>
+  <div class="dspcont">
+    <h2><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)">
+      <span class="dsphead">+</span> heading</a>
+    </h2>
+    <div class="dspcont">section</div>
+    <h2>
+      <a href="javascript:void(0)" class="dsphead" onclick="dsp(this)">
+        <span class="dspchar">+</span> heading
+      </a>
+    </h2>
+    <div class="dspcont">section</div>
+  </div>
+</div>
+
+
 ## <i>Imperial College London</i>, 2017-2018
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
