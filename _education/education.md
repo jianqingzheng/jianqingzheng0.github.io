@@ -64,7 +64,7 @@ permalink: /education/
 
 <div class="save">
   <a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a>
-  <div class="dspcont" style='display:none;'>
+  <div class="dspcont">
     Medical Imaging
     Image Guided Intervention
     Medical Robotics
