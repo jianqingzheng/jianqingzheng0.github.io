@@ -6,20 +6,7 @@ author_profile: true
 permalink: /education/ 
 ---
 
-<script type="text/javascript">
-function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.firstChild:loc.firstChild.nextSibling;
-  foc.innerHTML=(foc.innerHTML=='+')?'-':'+';
-  foc=loc.parentNode.nextSibling.style?loc.parentNode.nextSibling:loc.parentNode.nextSibling.nextSibling;
-  foc.style.display=foc.style.display=='block'?'none':'block';}
-  } 
-  if(!document.getElementById)
-  document.write('<style type="text/css">\n'+'.dspcont{display:block;}\n'+'</style>');
-</script>
-<noscript>
-<style type="text/css">
-.dspcont{display:block;}
-</style>
-</noscript>
+
 
 
 <fieldset>
@@ -76,14 +63,14 @@ function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.f
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
 <div class="save">
-<a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a>
-<div class="dspcont" style='display:none;'>
-  Medical Imaging
-  * Image Guided Intervention
-  * Medical Robotics
-  * Minimal Invasive Surgery
-  * Sensing, Perception and Neuroergonomics
-</div>
+  <a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a>
+  <div class="dspcont" style='display:none;'>
+    Medical Imaging
+    * Image Guided Intervention
+    * Medical Robotics
+    * Minimal Invasive Surgery
+    * Sensing, Perception and Neuroergonomics
+  </div>
 </div>
 
 ## <i>University of Liverpool</i>, 2015-2017 ##
