@@ -9,8 +9,8 @@ permalink: /education/
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
     first
-    <span style='float:right; display:none;' id='div_first_part1'>+ &nbsp</span>
-    <span style='float:right; display:block;' id='div_first_part2'>- &nbsp</span>
+    <span style='float:right; display:none;' id='div_first_part1'>+ </span>
+    <span style='float:right; display:block;' id='div_first_part2'>- </span>
   </legend>
   <div style='display:none;' id='div_first_part'>
     <ul>
