@@ -5,6 +5,34 @@ collection: education
 author_profile: true
 permalink: /education/ 
 ---
+<script type='text/javascript'>
+  function isHidden(oDiv) {
+    var vDiv = document.getElementById(oDiv);//div id用于折叠主体
+    vDiv.style.display = (vDiv.style.display == 'none')?'block':'none';//反转
+    var oDiv1 = oDiv + '1';
+    var vDiv1 = document.getElementById(oDiv1);//div id1用于折叠状态显示展开的+号
+    vDiv1.style.display = (vDiv1.style.display == 'none')?'block':'none';//反转
+    var oDiv2 = oDiv + '2';
+    var vDiv2 = document.getElementById(oDiv2);//div id2用于展开状态显示折叠的-号
+    vDiv2.style.display = (vDiv2.style.display == 'none')?'block':'none';//反转
+  }
+</script>
+<fieldset>
+  <legend style="cursor:hand" onclick="isHidden('div_first_part')">
+    第一块（默认展开）标题
+    <span style='float:right; display:none;' id='div_first_part1'>+&nbsp</span>
+    <span style='float:right; display:block;' id='div_first_part2'>-&nbsp</span>
+  </legend>
+  <div style='display:block;' id='div_first_part'>
+    <ul>
+      <li>第一块 第一行</li>
+      <li>第一块 第二行</li>
+      <li>第一块 第三行</li>
+      <li>第一块 第四行</li>
+      <li>第一块 第五行</li>
+    </ul>
+  </div>
+</fieldset>
 ## <i>Imperial College London</i>, 2017-2018
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
