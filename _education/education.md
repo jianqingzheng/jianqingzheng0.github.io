@@ -5,18 +5,7 @@ collection: education
 author_profile: true
 permalink: /education/ 
 ---
-<script type='text/javascript'>
-  function isHidden(oDiv) {
-    var vDiv = document.getElementById(oDiv);
-    vDiv.style.display = (vDiv.style.display == 'none')?'block':'none';
-    var oDiv1 = oDiv + '1';
-    var vDiv1 = document.getElementById(oDiv1);
-    vDiv1.style.display = (vDiv1.style.display == 'none')?'block':'none';
-    var oDiv2 = oDiv + '2';
-    var vDiv2 = document.getElementById(oDiv2);
-    vDiv2.style.display = (vDiv2.style.display == 'none')?'block':'none';
-  }
-</script>
+
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
     first
