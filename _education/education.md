@@ -62,6 +62,7 @@ permalink: /education/
 ## <i>Imperial College London</i>, 2017-2018 ##
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
+
 <div class="save">
   <a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a>
   <div class="dspcont" style='display:none;'>
