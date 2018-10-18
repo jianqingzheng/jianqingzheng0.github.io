@@ -19,17 +19,17 @@ permalink: /education/
 </script>
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
-    第一块（默认展开）标题
+    first
     <span style='float:right; display:none;' id='div_first_part1'>+&nbsp</span>
     <span style='float:right; display:block;' id='div_first_part2'>-&nbsp</span>
   </legend>
   <div style='display:block;' id='div_first_part'>
     <ul>
-      <li>第一块 第一行</li>
-      <li>第一块 第二行</li>
-      <li>第一块 第三行</li>
-      <li>第一块 第四行</li>
-      <li>第一块 第五行</li>
+      <li>1st</li>
+      <li>2nd</li>
+      <li>3rd</li>
+      <li>4th</li>
+      <li>5th</li>
     </ul>
   </div>
 </fieldset>
