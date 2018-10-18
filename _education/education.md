@@ -66,10 +66,10 @@ permalink: /education/
   <a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a>
   <div class="dspcont" style='display:none;'>
     Medical Imaging
-    * Image Guided Intervention
-    * Medical Robotics
-    * Minimal Invasive Surgery
-    * Sensing, Perception and Neuroergonomics
+    Image Guided Intervention
+    Medical Robotics
+    Minimal Invasive Surgery
+    Sensing, Perception and Neuroergonomics
   </div>
 </div>
 
