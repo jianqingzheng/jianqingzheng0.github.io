@@ -6,9 +6,7 @@ author_profile: true
 permalink: /education/ 
 ---
 
-
-
-
+<!--
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
     first
@@ -25,6 +23,7 @@ permalink: /education/
     </ul>
   </div>
 </fieldset>
+-->
 <!--
 <div class="save">
   <h1><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)">
@@ -61,7 +60,7 @@ permalink: /education/
 ## <i>Imperial College London</i>, 2017-2018 ##
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
-<h3><a href="javascript:void(0)" class="dspchar" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
     <li>Medical Imaging</li>
@@ -71,58 +70,68 @@ permalink: /education/
     <li>Sensing, Perception and Neuroergonomics</li>
   </ul>
 </div>
+<br />
 
 ## <i>University of Liverpool</i>, 2015-2017 ##
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering</b>
 * 1st Class Honours, GPA: 78%
-* Courses:
-  * Signals and Systems
-  * Field Theory, Partial Differential Equation and Method of Solution
-  * Instrumentation and Control System
-  * Digital Control and Optimization
-  * Electrical Circuits and Power Systems
-  * Communication Systems
-  * Electromagnetics
-  * CMOS Integrated Circuits
-  * Electronic Circuits And Systems
-  * Applied Design and Industrial Awareness
-  * Power Generation, Transmission and Distribution
-  * RF Engineering and Applied Electromagnetics
-  * Electronics For Instrumentation and Communications
-  * Drives
-  * Engineering Management and Entrepreneurial Skills
-  * Electromagnetic Compatibility
-  * Embedded Computer Systems
-  * Digital Electronics and Microprocessor Systems
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<div class="dspcont" style='display:none;'>
+  <ul>
+    <li>Signals and Systems</li>
+    <li>Field Theory, Partial Differential Equation and Method of Solution</li>
+    <li>Instrumentation and Control System</li>
+    <li>Digital Control and Optimization</li>
+    <li>Electrical Circuits and Power Systems</li>
+    <li>Communication Systems</li>
+    <li>Electromagnetics</li>
+    <li>CMOS Integrated Circuits</li>
+    <li>Electronic Circuits And Systems</li>
+    <li>Applied Design and Industrial Awareness</li>
+    <li>Power Generation, Transmission and Distribution</li>
+    <li>RF Engineering and Applied Electromagnetics</li>
+    <li>Electronics For Instrumentation and Communications</li>
+    <li>Drives</li>
+    <li>Engineering Management and Entrepreneurial Skills</li>
+    <li>Electromagnetic Compatibility</li>
+    <li>Embedded Computer Systems</li>
+    <li>Digital Electronics and Microprocessor Systems</li>
+  </ul>
+</div>
+<br />
 
-## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
+## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015 ##
 * <b>B.Eng. in Telecommunication Engineering</b>
-* Courses:
-  * Linear Algebra
-  * Calculus (Science & Engineering)
-  * Multivariable Calculus (Science and Engineering)
-  * Physics
-  * Fundamentals of Computer Programming
-  * Engineering Mathematics I
-  * Engineering Mathematics II
-  * Electrical Circuits I
-  * Electronic Circuits
-  * Digital Electronics I
-  * C Programming and Software Engineering I
-  * C++ Programming and Software Engineering II
-  * Engineering Electromagnetism and Drives
-  * Integrated Electronics and Design
-  * Experimental, Computer Skills and Sustainability
-  * English Language and Study Skills I for Engineering
-  * English Language and Study Skills II for Engineering
-  * English Language and Study Skills III for Engineering
-  * Self-management
-  * Introduction to Literature and Media Culture
-  * Ideological and Moral Cultivation and Basis of Law
-  * The Modernization Process of China
-  * Physical Education 1
-  * Physical Education 2
-<br>
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
+<div class="dspcont" style='display:none;'>
+  <ul>
+    <li>Linear Algebra</li>
+    <li>Calculus (Science & Engineering)</li>
+    <li>Multivariable Calculus (Science and Engineering)</li>
+    <li>Physics</li>
+    <li>Fundamentals of Computer Programming</li>
+    <li>Engineering Mathematics I</li>
+    <li>Engineering Mathematics II</li>
+    <li>Electrical Circuits I</li>
+    <li>Electronic Circuits</li>
+    <li>Digital Electronics I</li>
+    <li>C Programming and Software Engineering I</li>
+    <li>C++ Programming and Software Engineering II</li>
+    <li>Engineering Electromagnetism and Drives</li>
+    <li>Integrated Electronics and Design</li>
+    <li>Experimental, Computer Skills and Sustainability</li>
+    <li>English Language and Study Skills I for Engineering</li>
+    <li>English Language and Study Skills II for Engineering</li>
+    <li>English Language and Study Skills III for Engineering</li>
+    <li>Self-management</li>
+    <li>Introduction to Literature and Media Culture</li>
+    <li>Ideological and Moral Cultivation and Basis of Law</li>
+    <li>The Modernization Process of China</li>
+    <li>Physical Education 1</li>
+    <li>Physical Education 2</li>
+  </ul>
+</div>
+<br />
 
 ---
 
