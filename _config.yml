@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jian-Qing Zheng / Mr." #
 title_separator          : "-"
-name                     : &name "Jian-Qing Zheng (郑健青)" #
+name                     : &name "Jian-Qing Zheng" #
 description              : &description "personal description"
 url                      : https://jianqingzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"#
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian-Qing Zheng"
+  name             : "Jian-Qing Zheng (郑健青)"
   avatar           : "myself.jpg"
   bio              : "Research Assistant at Imperial College London"
   location         : "London, UK"
