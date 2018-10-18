@@ -6,22 +6,19 @@ author_profile: true
 permalink: /education/ 
 ---
 
-<script type="text/javascript"><!--
-function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.firstChild:loc.firstChild.nextSibling;/*使foc为当前点的下一个子元素的innerHTML也就是那个带+符号的<span>的innerHTML*/foc.innerHTML=(foc.innerHTML=='+')?'-':'+';/*判断<span>里的内容是-还是+号,是+就变-,是-就变+*/
-foc=loc.parentNode.nextSibling.style?
-loc.parentNode.nextSibling:
-loc.parentNode.nextSibling.nextSibling;/*将判断位置移动到<a>的父兄(就是h1后面的隐藏div)*/
-foc.style.display=foc.style.display=='block'?'none':'block';}/*判断div的display是none还是block,设置为相反的值*/} 
-if(!document.getElementById)
-document.write('<style type="text/css"><!--\n'+
-'.dspcont{display:block;}\n'+
-'//-->
-  </style>');
-//--></script>/*针对不支持DOM的浏览器，将隐藏内容全部显示*/
+<script type="text/javascript">
+function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.firstChild:loc.firstChild.nextSibling;
+  foc.innerHTML=(foc.innerHTML=='+')?'-':'+';
+  foc=loc.parentNode.nextSibling.style?loc.parentNode.nextSibling:loc.parentNode.nextSibling.nextSibling;
+  foc.style.display=foc.style.display=='block'?'none':'block';}
+  } 
+  if(!document.getElementById)
+  document.write('<style type="text/css">\n'+'.dspcont{display:block;}\n'+'</style>');
+</script>
 <noscript>
-<style type="text/css"><!--
+<style type="text/css">
 .dspcont{display:block;}
-//--></style>/*针对不支持js的浏览器，将隐藏内容显示*/
+</style>
 </noscript>
 
 
