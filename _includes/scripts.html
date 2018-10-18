@@ -4,14 +4,8 @@
 {% include /comments-providers/scripts.html %}
 
 <script>
-  function isHidden(oDiv) {
-    var vDiv = document.getElementById(oDiv);//div id用于折叠主体
-    vDiv.style.display = (vDiv.style.display == 'none')?'block':'none';//反转
-    var oDiv1 = oDiv + '1';
-    var vDiv1 = document.getElementById(oDiv1);//div id1用于折叠状态显示展开的+号
-    vDiv1.style.display = (vDiv1.style.display == 'none')?'block':'none';//反转
-    var oDiv2 = oDiv + '2';
-    var vDiv2 = document.getElementById(oDiv2);//div id2用于展开状态显示折叠的-号
-    vDiv2.style.display = (vDiv2.style.display == 'none')?'block':'none';//反转
+  function isHidden(oDiv){      
+    var vDiv = document.getElementById(oDiv);      
+    vDiv.style.display = (vDiv.style.display == 'none')?'block':'none';    
   }
 </script>
