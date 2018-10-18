@@ -70,7 +70,6 @@ permalink: /education/
     <li>Sensing, Perception and Neuroergonomics</li>
   </ul>
 </div>
-<br />
 
 ## <i>University of Liverpool</i>, 2015-2017 ##
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering</b>
@@ -98,7 +97,6 @@ permalink: /education/
     <li>Digital Electronics and Microprocessor Systems</li>
   </ul>
 </div>
-<br />
 
 ## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015 ##
 * <b>B.Eng. in Telecommunication Engineering</b>
