@@ -78,13 +78,14 @@ function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.f
 <div class="save">
 <a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a>
 <div class="dspcont" style='display:none;'>
-  * Medical Imaging
+  Medical Imaging
   * Image Guided Intervention
   * Medical Robotics
   * Minimal Invasive Surgery
   * Sensing, Perception and Neuroergonomics
 </div>
 </div>
+
 ## <i>University of Liverpool</i>, 2015-2017
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering</b>
 * 1st Class Honours, GPA: 78%
