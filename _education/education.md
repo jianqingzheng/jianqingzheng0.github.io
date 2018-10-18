@@ -61,13 +61,15 @@ permalink: /education/
 ## <i>Imperial College London</i>, 2017-2018 ##
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
-<h4><a href="javascript:void(0)" class="dspchar" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h4>
+<h3><a href="javascript:void(0)" class="dspchar" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
-  * Medical Imaging
-  * Image Guided Intervention   
-  * Medical Robotics
-  * Minimal Invasive Surgery
-  * Sensing, Perception and Neuroergonomics
+  <ul>
+    <li>Medical Imaging</li>
+    <li>Image Guided Intervention</li>
+    <li>Medical Robotics</li>
+    <li>Minimal Invasive Surgery</li>
+    <li>Sensing, Perception and Neuroergonomics</li>
+  </ul>
 </div>
 
 ## <i>University of Liverpool</i>, 2015-2017 ##
