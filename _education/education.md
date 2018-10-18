@@ -6,15 +6,6 @@ author_profile: true
 permalink: /education/ 
 ---
 
-<div class="item">
-  <div class="title">垃圾信息举报</div>
-  <input type="checkbox">
-    <span class="ico"></span>
-    <div class="content">
-      感谢您的反馈
-  </div>
-</div>
-
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
     first
