@@ -72,7 +72,7 @@ function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.f
 </div>
 
 
-## <i>Imperial College London</i>, 2017-2018
+## <i>Imperial College London</i>, 2017-2018 ##
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
 * Distinction, GPA: 77%
 <div class="save">
@@ -86,7 +86,7 @@ function dsp(loc){if(document.getElementById){foc=loc.firstChild.innerHTML?loc.f
 </div>
 </div>
 
-## <i>University of Liverpool</i>, 2015-2017
+## <i>University of Liverpool</i>, 2015-2017 ##
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering</b>
 * 1st Class Honours, GPA: 78%
 * Courses:
