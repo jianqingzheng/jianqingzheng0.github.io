@@ -20,15 +20,15 @@ permalink: /research/
 * __Motivation__: To investigate on the potential usage of direct load control in load frequency control of a smart grid.
 * __Pipeline__: Built a mathematical model and the simulated one of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system and validated the results with simulation.
 
-### <b>Image Mosaic of Unmanned Aerial Vehicle</b>
-* 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
-* __Motivation__: To implement an automatic program for image mosaic for a unmanned aerial vehicle.
-* __Pipeline__: Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
-
 ### <b>Capacitive Touch Sensing Device</b>
 * 2015, _Wuhan University, Wuhan, CN_
 * __Motivation__: To design and develop a capacitive touch sensing module used in toys.
 * __Pipeline__: Designed a printed circuit board and the coniguration of capacitance sensor and the sensing circuit. Analyzed electromagnetic coupling. Added an identification wire to each connected signal wire to compensate for current errors caused by the stray capacitances and parasitic capacitances between the connected wires and ground wire. Applied logic circuits to filter fake signals triggered by noise.
+
+### <b>Image Mosaic of Unmanned Aerial Vehicle</b>
+* 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
+* __Motivation__: To implement an automatic program for image mosaic for a unmanned aerial vehicle.
+* __Pipeline__: Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
 
 ---
 
