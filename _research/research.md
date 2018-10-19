@@ -25,6 +25,11 @@ permalink: /research/
 * __Motivation__: To implement an automatic program for image mosaic for a unmanned aerial vehicle.
 * __Pipeline__: Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
 
+### <b>Capacitive Touch Sensing Device</b>
+* 2015, _Wuhan University, Wuhan, CN_
+* __Motivation__: To design and develop a capacitive touch sensing module used in toys.
+* __Pipeline__: Designed a printed circuit board and the coniguration of capacitance sensor and the sensing circuit. Analyzed electromagnetic coupling. Added an identification wire to each connected signal wire to compensate for current errors caused by the stray capacitances and parasitic capacitances between the connected wires and ground wire. Applied logic circuits to filter fake signals triggered by noise.
+
 ---
 
 ## Collaborated Project
