@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian-Qing Zheng / Mr." #
+title                    : "Home" #
 title_separator          : "-"
 name                     : &name "Jian-Qing Zheng" #
 description              : &description "personal description"
