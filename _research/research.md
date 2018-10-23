@@ -22,9 +22,9 @@ permalink: /research/
     <li>[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication</a></u>]</li>
   </ul>
   <br/>
-  <div height='50px'><img src='/images/aaaseg2d_2.gif' /></div>
-  <img src='/images/aaaseg3d.png' height="50px" />
-  <img src='/images/aaareg.jpg' height="50px" />
+  <img src='/images/aaaseg2d_2.gif' />
+  <img src='/images/aaaseg3d.png' />
+  <img src='/images/aaareg.jpg' />
   </fieldset>
 </div>
 
