@@ -251,5 +251,6 @@ permalink: /research/
       </ul>
     </li>
   </ul>
+  <br/>
   </fieldset>
 </div>
