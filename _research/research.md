@@ -24,7 +24,7 @@ permalink: /research/
   <br/>
   <img src='/images/aaaseg2d_2.gif' height='50px' />
   <img src='/images/aaaseg3d.png' height="50px" />
-  <img src='/images/aaareg.pdf' height="50px" />
+  <img src='/images/aaareg.jpg' height="50px" />
   </fieldset>
 </div>
 
