@@ -100,6 +100,7 @@ permalink: /education/
 
 ## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015 ##
 * <b>B.Eng. in Telecommunication Engineering</b>
+* GPA: 71%
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
