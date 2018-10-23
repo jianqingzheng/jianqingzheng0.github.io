@@ -9,7 +9,7 @@ permalink: /research/
 <hr color="000000"/>
 
 ## Individual Project
-
+---
 ### <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * 2018, _Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
@@ -102,15 +102,39 @@ permalink: /research/
   </fieldset>
 </div>
 
-***
+---
+---
 
 ## Collaborated Project
-
+---
 ### <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
 * 2018, _Imperial College London, London, UK_
-* __Motivation__: To investigate on the effect of atrous rate on receptive field in a deep convolutional neural network and to improve the resolution of feature maps and the efficiency of the network.
-* __Pipeline__: Theoretically analysed the receptive field (RF) with dilated (atrous) rate setting and the truncation effect. Obtained and proved a general solution of atrous rate setting for a uniform distributed RF while large and fully covered RF guaranteed. Proposed a novel network, Atrous Convolutional Neural Network (ACNN) with skip connections and multi-scale consideration as an example for semantic segmentation. Validated ACNN on three bio-medical datasets with high-resolution feature map propagation and reasonable segmentation results, reducing the number of variables by 99.75%, and achieving a reasonable DSC of 0.6~0.7.
-* __Contribution__: Theoretical analysed and simulated the effect of atrous rate on the receptive field, and the truncation effect. Processed data and evaluated segmentation results.
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To investigate on the effect of atrous rate on receptive field in a deep convolutional neural network and to improve the resolution of feature maps and the efficiency of the network.</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Theoretically analysed the receptive field (RF) with dilated (atrous) rate setting and the truncation effect.</li>
+        <li>Obtained and proved a general solution of atrous rate setting for a uniform distributed RF while large and fully covered RF guaranteed.  </li>
+        <li>Proposed a novel network, Atrous Convolutional Neural Network (ACNN) with skip connections and multi-scale consideration as an example for semantic segmentation.  </li>
+        <li>Validated ACNN on three bio-medical datasets with high-resolution feature map propagation and reasonable segmentation results, reducing the number of variables by 99.75%, and achieving a reasonable DSC of 0.6~0.7. </li>
+      </ul>
+    </li>
+    <li><b>Contribution</b>: 
+      <ul>
+        <li>Theoretical analysed and simulated the effect of atrous rate on the receptive field, and the truncation effect. </li>
+        <li>Processed data and evaluated segmentation results. </li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  <img src='/images/125.gif' />
+  <img src='/images/139.gif' />
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
 
 ### Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation
 * 2018, _Imperial College London, London, UK_
