@@ -5,7 +5,7 @@ collection: education
 author_profile: true
 permalink: /education/ 
 ---
-<hr color="000000"/>
+
 <!--
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
@@ -56,6 +56,7 @@ permalink: /education/
   </div>
 </div>
 -->
+<hr color="000000"/>
 
 ## <i>Imperial College London</i>, 2017-2018 ##
 * <b>M.Res. in Medical Robotics & Image Guide Intervention</b>
