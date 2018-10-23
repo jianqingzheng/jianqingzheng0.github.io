@@ -12,7 +12,7 @@ permalink: /research/
 
 ### <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * 2018, _Imperial College London, London, UK_
-<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h3>
+&nbsp<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
     <li><b>Motivation</b>: To navigate robot-assisted fenestrated endovascular aortic repair.</li>
