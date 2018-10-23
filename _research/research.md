@@ -192,7 +192,7 @@ permalink: /research/
     </li>
   </ul>
   <br/>
-  <img src='/images/estimation_method.png' />
+  <img src='/images/eeg_control.jpg' />
   <img src='/images/maze_navig.tif' />
   </fieldset>
 </div>
@@ -200,9 +200,34 @@ permalink: /research/
 
 ### <b>Smartphone Download-Management System</b>
 * 2016, _University of Liverpool, Liverpool, UK_
-* __Motivation__: To investigate on management strategies of file downloading in a smartphone.
-* __Pipeline__: Built a model of Wi-Fi and 3G data transmissions using MATLAB. Simulated a process of file generation and downloads to optimize the downloading process. Designed strategies for priority ranking, and optimized loss functions. Implemented the data dynamic visualization of download values and download size for different strategies. Quantified the performance of each strategy according to the size and value of downloaded documents, tested the simulation in multiple internet environments, and selected the optimal strategies for most cases.
-* __Contribution__: Leaded the group. Designed the framework and downloading strategies. Implemented the file generation and data visualization.
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To investigate on management strategies of file downloading in a smartphone.</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Built a model of Wi-Fi and 3G data transmissions using MATLAB.</li>
+        <li>Simulated a process of file generation and downloads to optimize the downloading process.</li>
+        <li>Designed strategies for priority ranking, and optimized loss functions.</li>
+        <li>Implemented the data dynamic visualization of download values and download size for different strategies.</li>
+        <li> Quantified the performance of each strategy according to the size and value of downloaded documents, tested the simulation in multiple internet environments, and selected the optimal strategies for most cases.</li>
+      </ul>
+    </li>
+    <li><b>Contribution</b>: 
+      <ul>
+        <li>Leaded the group.</li>
+        <li>Designed the framework and downloading strategies.</li>
+        <li>Implemented the file generation and data visualization.</li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  <img src='/images/eeg_control.jpg' />
+  <img src='/images/maze_navig.tif' />
+  </fieldset>
+</div>
+<hr color="#FFFFFF" /> 
 
 ### Big Data Challenge, Interdisciplinary Contest in Modeling, COMAP
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
