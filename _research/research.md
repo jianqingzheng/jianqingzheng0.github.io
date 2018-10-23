@@ -102,7 +102,7 @@ permalink: /research/
   </fieldset>
 </div>
 
-------
+***
 
 ## Collaborated Project
 
