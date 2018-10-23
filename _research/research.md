@@ -30,8 +30,22 @@ permalink: /research/
 
 ### <b>Load Frequency Control of a Smart Grid</b>
 * 2016, _University of Liverpool, Liverpool, UK_
-* __Motivation__: To investigate on the potential usage of direct load control in load frequency control of a smart grid.
-* __Pipeline__: Built a mathematical model and the simulated one of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system and validated the results with simulation.
+<h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h3>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To investigate on the potential usage of direct load control in load frequency control of a smart grid.</li>
+    <li><b>Pipeline</b>: Built a mathematical model and the simulated one of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system and validated the results with simulation.
+</li>
+  </ul>
+  <br/>
+  <img src='/images/powersystem.jpg' />
+  <img src='/images/frequencydev.jpg' />
+  </fieldset>
+</div>
+
+* __Motivation__: 
+* __Pipeline__: 
 
 ### <b>Capacitive Touch Sensing Device</b>
 * 2015, _Wuhan University, Wuhan, CN_
