@@ -24,7 +24,7 @@ permalink: /research/
         <li>Extracted the centrelines of AAA from CTA and fluoroscopy image. </li>
         <li>Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. </li>
         <li>Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. </li>
-        <li>Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. </li>
+        <li>Validated the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. </li>
         <li>Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.</li>
       </ul>
     </li>
@@ -138,9 +138,36 @@ permalink: /research/
 
 ### Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation
 * 2018, _Imperial College London, London, UK_
-* __Motivation__: To estimate tissue oxygen saturation directly from RGB images without hyperspectral images for a seamless integration of the proposed method into surgical and diagnostic workflows with standard endoscope systems.
-* __Pipeline__: Simulated RGB images and calculated the oxygen saturation from given hyperspectral images. Augmented data by flipping and cropping with a slide-window. Fed the simulated RGB images and the calculated oxygen saturation to train a conditional Generative Adversarial Network (cGAN). Estimated tissue oxygen using pixel-level image-to-image translation by cGAN. Evaluated prediction results using with different batch size and weight coefficient.
-* __Contribution__: Programed data processing and data augmentation.
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To estimate tissue oxygen saturation directly from RGB images without hyperspectral images for a seamless integration of the proposed method into surgical and diagnostic workflows with standard endoscope systems.</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Simulated RGB images and calculated the oxygen saturation from given hyperspectral images.</li>
+        <li>Augmented data by flipping and cropping with a slide-window. </li>
+        <li>Fed the simulated RGB images and the calculated oxygen saturation to train a conditional Generative Adversarial Network (cGAN).</li>
+        <li>Estimated tissue oxygen using pixel-level image-to-image translation by cGAN.</li>
+        <li>Evaluated prediction results using with different batch size and weight coefficient.</li>
+      </ul>
+    </li>
+    <li><b>Contribution</b>: 
+      <ul>
+        <li>Programed data processing.</li>
+        <li>Programed data augmentation.</li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  <img src='/images/125.gif' />
+  <img src='/images/139.gif' />
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
+* __Motivation__: 
+* __Pipeline__:     
+* __Contribution__: 
 
 ### <b>Brain-Computer Interface Framework for NAO Robot</b>
 * 2017, _Imperial College London, London, UK_
