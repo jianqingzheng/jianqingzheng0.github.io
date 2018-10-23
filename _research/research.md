@@ -231,6 +231,25 @@ permalink: /research/
 
 ### Big Data Challenge, Interdisciplinary Contest in Modeling, COMAP
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
-* __Motivation__: To quantify and optimize the investment strategies to universities with a large dataset.
-* __Pipeline__: Replaced outlier and missing data using linear interpolation and averaging. Reduced the dimensions of the feature space with principal component analysis. Fitted a characteristic curve of investment and performance indexes weighted according to the result of the PCA using a Back-Propagation Neural Network (BP-NN). Utilized the Stochastic Gradient Descent method to minimize the cost function based on the Euclidean distance with various, random initial points.
-* __Contribution__: Programed data pre-processing including normalization, data cleaning, as well as dimension reduction. Implemented BP-NN and optimization using MATLAB toolbox.
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To quantify and optimize the investment strategies to universities with a large dataset.</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Replaced outlier and missing data using linear interpolation and averaging.</li>
+        <li>Reduced the dimensions of the feature space with principal component analysis.</li>
+        <li>Fitted a characteristic curve of investment and performance indexes weighted according to the result of the PCA using a Back-Propagation Neural Network (BP-NN).</li>
+        <li>Utilized the Stochastic Gradient Descent method to minimize the cost function based on the Euclidean distance with various, random initial points.</li>
+      </ul>
+    </li>
+    <li><b>Contribution</b>: 
+      <ul>
+        <li>Programed data pre-processing including normalization, data cleaning, as well as dimension reduction.</li>
+        <li>Implemented BP-NN and optimization using MATLAB toolbox.</li>
+      </ul>
+    </li>
+  </ul>
+  </fieldset>
+</div>
