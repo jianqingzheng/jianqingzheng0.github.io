@@ -5,7 +5,7 @@ collection: education
 author_profile: true
 permalink: /education/ 
 ---
-
+<hr color="000000"/>
 <!--
 <fieldset>
   <legend style="cursor:hand" onclick="isHidden('div_first_part')">
