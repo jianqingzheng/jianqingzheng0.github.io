@@ -20,7 +20,7 @@ permalink: /research/
 </li>
     <li><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">[publication]</li>
   </ul>
-  <img src='/images/500x300.png'>
+  <img src='/images/500x300.png' />
 </div>
 
 ### <b>Load Frequency Control of a Smart Grid</b>
