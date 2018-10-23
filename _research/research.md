@@ -89,6 +89,7 @@ permalink: /research/
 * __Pipeline__: Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
 
 <hr color="#848484" />
+<hr color="#848484" />
 
 ## Collaborated Project
 
