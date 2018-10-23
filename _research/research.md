@@ -58,9 +58,7 @@ permalink: /research/
   <img src='/images/frequencydev.jpg' />
   </fieldset>
 </div>
-
-* __Motivation__: 
-* __Pipeline__: 
+<hr color="#FFFFFF" />
 
 ### <b>Capacitive Touch Sensing Device</b>
 * 2015, _Wuhan University, Wuhan, CN_
@@ -68,35 +66,29 @@ permalink: /research/
 <div class="dspcont" style='display:none;'>
   <fieldset>
   <ul>
-    <li><b>Motivation</b>: To navigate robot-assisted fenestrated endovascular aortic repair.</li>
+    <li><b>Motivation</b>: To design and develop a capacitive touch sensing module used in toys.</li>
     <li><b>Pipeline</b>: 
       <ul>
-        <li>Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of grey value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. </li>
-        <li>Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. </li>
-        <li>Extracted the centrelines of AAA from CTA and fluoroscopy image. </li>
-        <li>Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. </li>
-        <li>Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. </li>
-        <li>Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. </li>
-        <li>Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.</li>
+        <li>Designed a printed circuit board and the coniguration of capacitance sensor and the sensing circuit.</li>
+        <li>Analyzed electromagnetic coupling. Added an identification wire to each connected signal wire to compensate for current errors caused by the stray capacitances and parasitic capacitances between the connected wires and ground wire. </li>
+        <li>Applied logic circuits to filter fake signals triggered by noise.</li>
       </ul>
     </li>
-    <li>[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication</a></u>]</li>
+    <li>[<u><a href="https://jianqingzheng.github.io/publication/UMP2016-logic_zheng">patent</a></u>]</li>
   </ul>
   <br/>
-  <img src='/images/aaaseg2d_2.gif' />
-  <img src='/images/aaaseg3d.png' />
-  <img src='/images/aaareg.jpg' />
+  <img src='/images/patent1.png' />
+  <img src='/images/patent2.png' />
   </fieldset>
 </div>
-* __Motivation__: To design and develop a capacitive touch sensing module used in toys.
-* __Pipeline__: Designed a printed circuit board and the coniguration of capacitance sensor and the sensing circuit. Analyzed electromagnetic coupling. Added an identification wire to each connected signal wire to compensate for current errors caused by the stray capacitances and parasitic capacitances between the connected wires and ground wire. Applied logic circuits to filter fake signals triggered by noise.
+<hr color="#FFFFFF" />
 
 ### <b>Image Mosaic of Unmanned Aerial Vehicle</b>
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
 * __Motivation__: To implement an automatic program for image mosaic for a unmanned aerial vehicle.
 * __Pipeline__: Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
 
----
+<hr color="#8FFFFF" />
 
 ## Collaborated Project
 
