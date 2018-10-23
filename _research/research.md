@@ -36,7 +36,7 @@ permalink: /research/
   <img src='/images/aaareg.jpg' />
   </fieldset>
 </div>
-<hr/>
+<hr color="white" />
 
 ### <b>Load Frequency Control of a Smart Grid</b>
 * 2016, _University of Liverpool, Liverpool, UK_
