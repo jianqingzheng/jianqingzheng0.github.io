@@ -6,7 +6,7 @@ author_profile: true
 permalink: /research/ 
 ---
 
-<hr width="2px" color="0000"/>
+<hr height="2px" color="0000"/>
 
 ## Individual Project
 
