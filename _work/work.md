@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* 2018 <b>Research Assistant</b>, <i>Imperial College London</i>
+* 2018-present <b>Research Assistant</b>, <i>Imperial College London</i>
   * Studying on the shape instantiation of partially-deployed stent-graft and the prediction of fully- deployed stent-graft from a fluoroscopy for navigation in robot-assisted Fenestrated Endovascular Aortic Repair (FEVAR).
 
 * 2017 <b>Technical Development and Algorithm Design Intern</b>, <i>AlgoLib Ltd</i>.
