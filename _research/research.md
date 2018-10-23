@@ -165,15 +165,38 @@ permalink: /research/
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
-* __Motivation__: 
-* __Pipeline__:     
-* __Contribution__: 
 
 ### <b>Brain-Computer Interface Framework for NAO Robot</b>
 * 2017, _Imperial College London, London, UK_
-* __Motivation__: To build a brain-computer interface network with electroencephalograph signals for robot control.
-* __Pipeline__: Removed the artefacts caused by electromyography and electrooculography from electroencephalograph (EEG) signals using Wavelet Analysis. Extracted the features of the EEG signals using Common Spatial Pattern (CSP) filter. Used Linear Discriminant Analysis (LDA), Support Vector Machine (SVM), Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) to classified two kinds of imaginary motion. Transmitted classified data to the second computer with SSH protocol by Python-Socket for real-time control of one NAO robot. Implemented colourized boundary distance measurement using histogram equalization to enhance contrast, a Laplacian filter to detect edge and a homogeneous transformation to reconstruct the 3-D coordinates. Controlled a NAO robot to walk out of a maze with EEG.
-* __Contribution__: Optimized the algorithm of artefact removal. Extracted feature using CSP filter. Classified EEG signal using LDA in MATLAB and OpenVibe as well as kernel SVM in OpenVibe. Transmitted classified data with SSH. 
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To build a brain-computer interface network with electroencephalograph signals for robot control.</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Removed the artefacts caused by electromyography and electrooculography from electroencephalograph (EEG) signals using Wavelet Analysis.</li>
+        <li>Extracted the features of the EEG signals using Common Spatial Pattern (CSP) filter. Used Linear Discriminant Analysis (LDA), Support Vector Machine (SVM), Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) to classified two kinds of imaginary motion. </li>
+        <li>Transmitted classified data to the second computer with SSH protocol by Python-Socket for real-time control of one NAO robot.</li>
+        <li>Implemented colourized boundary distance measurement using histogram equalization to enhance contrast, a Laplacian filter to detect edge and a homogeneous transformation to reconstruct the 3-D coordinates.</li>
+        <li>Controlled a NAO robot to walk out of a maze with EEG.</li>
+      </ul>
+    </li>
+    <li><b>Contribution</b>: 
+      <ul>
+        <li>Optimized the algorithm of artefact removal.</li>
+        <li>Extracted feature using CSP filter.</li>
+        <li>Classified EEG signal using LDA in MATLAB and OpenVibe as well as kernel SVM in OpenVibe.</li>
+        <li>Transmitted classified data with SSH. </li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  <img src='/images/estimation_method.png' />
+  <img src='/images/maze_navig.tif' />
+  </fieldset>
+</div>
+<hr color="#FFFFFF" />
 
 ### <b>Smartphone Download-Management System</b>
 * 2016, _University of Liverpool, Liverpool, UK_
