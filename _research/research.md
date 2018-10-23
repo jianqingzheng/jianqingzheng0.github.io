@@ -160,8 +160,8 @@ permalink: /research/
     </li>
   </ul>
   <br/>
-  <img src='/images/estimation_method.png .gif' />
-  <img src='/images/estimation_result.png .gif' />
+  <img src='/images/estimation_method.png' />
+  <img src='/images/estimation_result.png' />
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
