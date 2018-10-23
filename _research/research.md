@@ -85,8 +85,22 @@ permalink: /research/
 
 ### <b>Image Mosaic of Unmanned Aerial Vehicle</b>
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
-* __Motivation__: To implement an automatic program for image mosaic for a unmanned aerial vehicle.
-* __Pipeline__: Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB. Applied weighted averaging to image fusion. Completed a MATLAB program that implemented an automatic image mosaic for given photos.
+<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
+<div class="dspcont" style='display:none;'>
+  <fieldset>
+  <ul>
+    <li><b>Motivation</b>: To implement an automatic program for image mosaic for a unmanned aerial vehicle.</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB.</li>
+        <li>Applied weighted averaging to image fusion. </li>
+        <li>Completed a MATLAB program that implemented an automatic image mosaic for given photos.</li>
+      </ul>
+    </li>
+  </ul>
+  <br/>
+  </fieldset>
+</div>
 
 ------
 
