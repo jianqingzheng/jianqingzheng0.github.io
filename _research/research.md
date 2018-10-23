@@ -19,7 +19,7 @@ permalink: /research/
     <li><b>Motivation</b>: To navigate robot-assisted fenestrated endovascular aortic repair.</li>
     <li><b>Pipeline</b>: Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of grey value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. Extracted the centrelines of AAA from CTA and fluoroscopy image. Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. Validate the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.
 </li>
-    <li>[<div style="colour:#FF0000"><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication</a></div>]</li>
+    <li>[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication</a></u>]</li>
   </ul>
   <br/>
   <img src='/images/500x300.png' />
