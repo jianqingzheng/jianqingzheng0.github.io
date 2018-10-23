@@ -8,7 +8,7 @@ permalink: /research/
 
 <hr color="000000"/>
 
-## Individual Project
+## _Individual Project_
 ---
 ### <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * 2018, _Imperial College London, London, UK_
@@ -105,7 +105,7 @@ permalink: /research/
 ---
 ---
 
-## Collaborated Project
+## _Collaborated Project_
 ---
 ### <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
 * 2018, _Imperial College London, London, UK_
