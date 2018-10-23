@@ -45,8 +45,13 @@ permalink: /research/
   <fieldset>
   <ul>
     <li><b>Motivation</b>: To investigate on the potential usage of direct load control in load frequency control of a smart grid.</li>
-    <li><b>Pipeline</b>: Built a mathematical model and the simulated one of Load Frequency Control and Direct Load Control in a multi-area power system. Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. Utilized direct controlled load to improve the efficiency and stability of the power system and validated the results with simulation.
-</li>
+    <li><b>Pipeline</b>: 
+      <ul>
+        <li>Built a mathematical model and the simulated one of Load Frequency Control and Direct Load Control in a multi-area power system. </li>
+        <li>Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. </li>
+        <li>Utilized direct controlled load to improve the efficiency and stability of the power system and validated the results with simulation.</li>
+      </ul>
+    </li>
   </ul>
   <br/>
   <img src='/images/powersystem.jpg' />
