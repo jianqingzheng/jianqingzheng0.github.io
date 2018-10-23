@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<hr color="000000"/>
+
 {% include base_path %}
 
 * 2018-present <b>Research Assistant</b>, <i>Imperial College London</i>
