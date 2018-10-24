@@ -157,6 +157,7 @@ permalink: /research/
         <li>Programed data augmentation.</li>
       </ul>
     </li>
+    <li>[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-estimation_li">publication</a></u>]</li>
   </ul>
   <br/>
   <img src='/images/estimation_method.png' />
@@ -189,6 +190,7 @@ permalink: /research/
         <li>Transmitted classified data with SSH. </li>
       </ul>
     </li>
+    <li>[<u><a href="https://jianqingzheng.github.io/publication/UK-RAS2017-motor_zhang">publication</a></u>]</li>
   </ul>
   <br/>
   <img src='/images/eeg_control.jpg' />
