@@ -5,6 +5,7 @@ collection: research
 author_profile: true
 permalink: /research/ 
 ---
+
 <html>
 <hr color="000000" />
 </html>
@@ -104,7 +105,7 @@ permalink: /research/
 </div>
 
 ---
-
+<br />
 # <i>Collaborated Project</i>
 ---
 ## <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
@@ -256,3 +257,4 @@ permalink: /research/
   <br/>
   </fieldset>
 </div>
+---
