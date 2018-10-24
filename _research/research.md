@@ -192,7 +192,7 @@ permalink: /research/
   </ul>
   <br/>
   <img src='/images/eeg_control.jpg' />
-  <img src='/images/maze_navig.tif' />
+  <img src='/images/maze_navig.jpg' />
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
