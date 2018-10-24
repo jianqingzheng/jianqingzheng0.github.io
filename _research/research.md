@@ -8,6 +8,7 @@ permalink: /research/
 <html>
 <hr color="000000" />
 </html>
+
 # <i>Individual Project</i>
 ---
 ## <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
