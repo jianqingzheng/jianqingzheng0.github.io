@@ -105,7 +105,9 @@ permalink: /research/
 </div>
 
 ---
+
 <br />
+
 # <i>Collaborated Project</i>
 ---
 ## <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
