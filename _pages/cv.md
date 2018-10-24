@@ -55,8 +55,8 @@ redirect_from:
 ---
 # Leadership
 
-* <b>2017 Course Representative</b>, <i>Imperial College London</i>
-* <b>Computer</b>
+* 2016 <b>Course Representative</b>, <i>University of Liverpool</i>
+* 2014 <b>Computer</b>
   * MATLAB, Python, C, C++, AHDL
 ---
 
