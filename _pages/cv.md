@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<hr class="hr5"/>
+
+<hr class="hr3"/>
 
 # Education
 
