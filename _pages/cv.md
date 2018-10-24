@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<hr color="000000"/>
+<hr class="hr1"/>
 
 # Education
 
