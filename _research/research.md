@@ -24,7 +24,7 @@ permalink: /research/
         <li>Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. </li>
         <li>Extracted the centrelines of AAA from CTA and fluoroscopy image. </li>
         <li>Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. </li>
-        <li>Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness to implement the deformable 2D/3D registration. </li>
+        <li>Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness for the non-rigid 2D/3D registration. </li>
         <li>Validated the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. </li>
         <li>Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.</li>
       </ul>
