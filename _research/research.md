@@ -8,9 +8,9 @@ permalink: /research/
 
 <hr color="000000"/>
 
-## <i>Individual Project</i>
+# <i>Individual Project</i>
 ---
-### <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
+## <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
 * 2018, _Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -38,7 +38,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-### <b>Load Frequency Control of a Smart Grid</b>
+## <b>Load Frequency Control of a Smart Grid</b>
 * 2016, _University of Liverpool, Liverpool, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -60,7 +60,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-### <b>Capacitive Touch Sensing Device</b>
+## <b>Capacitive Touch Sensing Device</b>
 * 2015, _Wuhan University, Wuhan, CN_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -83,7 +83,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-### <b>Image Mosaic of Unmanned Aerial Vehicle</b>
+## <b>Image Mosaic of Unmanned Aerial Vehicle</b>
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -104,9 +104,9 @@ permalink: /research/
 
 ---
 
-## <i>Collaborated Project</i>
+# <i>Collaborated Project</i>
 ---
-### <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
+## <b>High-resolution Feature Map Propagation in Deep Convolutional Neural Network</b>
 * 2018, _Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -135,7 +135,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-### Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation
+## Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation
 * 2018, _Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -166,7 +166,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-### <b>Brain-Computer Interface Framework for NAO Robot</b>
+## <b>Brain-Computer Interface Framework for NAO Robot</b>
 * 2017, _Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -199,7 +199,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-### <b>Smartphone Download-Management System</b>
+## <b>Smartphone Download-Management System</b>
 * 2016, _University of Liverpool, Liverpool, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -230,7 +230,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" /> 
 
-### Big Data Challenge, Interdisciplinary Contest in Modeling, COMAP
+## Big Data Challenge, Interdisciplinary Contest in Modeling, COMAP
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
