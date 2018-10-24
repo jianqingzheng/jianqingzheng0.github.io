@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<hr class="hr1"/>
+<hr class="hr5"/>
 
 # Education
 
@@ -51,6 +51,8 @@ redirect_from:
 * <b>Computer</b>
   * MATLAB, Python, C, C++, AHDL
   
+---
+
 ---
 
 # Publications
