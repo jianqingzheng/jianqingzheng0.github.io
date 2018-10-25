@@ -21,6 +21,7 @@ redirect_from:
   * 1st Class Honours, GPA: 78%
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015
   * <b>B.Eng. in Telecommunication Engineering</b>
+  * GPA: 71%
  
 ---
 
