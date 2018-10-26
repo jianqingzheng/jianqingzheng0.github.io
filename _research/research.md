@@ -140,7 +140,7 @@ permalink: /research/
 </div>
 <hr color="#FFFFFF" />
 
-## Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation
+## Estimation of Tissue Oxygen Saturation from RGB Images
 * 2018, _Imperial College London, London, UK_
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
@@ -160,6 +160,7 @@ permalink: /research/
       <ul>
         <li>Programed data processing.</li>
         <li>Programed data augmentation.</li>
+        <li>Trained U-Net as the generator.</li>
       </ul>
     </li>
     <li>[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-estimation_li">publication</a></u>]</li>
