@@ -13,9 +13,9 @@ redirect_from:
 
 # Education
 
-|                              |         |
-|:-----------------------------|--------:|
-|<i>Imperial College London</i>|2017-2018|
+                              |         
+:-----------------------------|--------:
+<i>Imperial College London</i>|2017-2018
 
   
 * <left><i>Imperial College London</i></left>, <right>2017-2018</right>
