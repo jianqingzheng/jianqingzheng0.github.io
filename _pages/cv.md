@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <hr class="hr3"/>
+
 <center>
 # Education
 </center>
