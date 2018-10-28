@@ -12,7 +12,7 @@ redirect_from:
 <hr class="hr3"/>
 
 <center>
-# Education
+Education
 </center>
 
 * <i>Imperial College London</i>, 2017-2018
