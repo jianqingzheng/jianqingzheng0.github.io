@@ -15,7 +15,7 @@ redirect_from:
 
 # Education
 
-* <p align="left"><i>Imperial College London</i></p>, <p align="right">2017-2018</p>
+* <left><i>Imperial College London</i></left>, <right>2017-2018</right>
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
 * <i>University of Liverpool</i>, 2015-2017
   * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering (1st Class Honours)</b>
