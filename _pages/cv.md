@@ -15,6 +15,13 @@ redirect_from:
 
 # Education
 
+<div>
+  <ul>
+    <li><left><i>Imperial College London</i></left>, <right>2017-2018</right></li>
+    <li><b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b></li>
+  </ul>
+</div>
+  
 * <left><i>Imperial College London</i></left>, <right>2017-2018</right>
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
 * <i>University of Liverpool</i>, 2015-2017
