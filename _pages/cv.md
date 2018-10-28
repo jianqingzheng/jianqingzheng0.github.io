@@ -13,9 +13,7 @@ redirect_from:
 
 <hr class="hr3"/>
 
-<h1 align="center">
-Education
-</h1>
+# Education
 
 * <i>Imperial College London</i>, 2017-2018
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
