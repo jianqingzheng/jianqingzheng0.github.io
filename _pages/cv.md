@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <hr class="hr3"/>
-<centering>
+<center>
 # Education
-</centering>
+</center>
 
 * <i>Imperial College London</i>, 2017-2018
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
