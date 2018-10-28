@@ -13,6 +13,7 @@ redirect_from:
 
 # Education
 
+|                              |         |
 |:-----------------------------|--------:|
 |<i>Imperial College London</i>|2017-2018|
 
