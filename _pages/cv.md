@@ -12,11 +12,6 @@ redirect_from:
 <hr class="hr3"/>
 
 # Education
-
-                              |         
-:-----------------------------|--------:
-<i>Imperial College London</i>|2017-2018
-
   
 * <left><i>Imperial College London</i></left>, <right>2017-2018</right>
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
