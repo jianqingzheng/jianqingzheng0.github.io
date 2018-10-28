@@ -17,7 +17,7 @@ redirect_from:
 
 <div>
   <ul>
-    <li><left><i>Imperial College London</i></left>, <right>2017-2018</right></li>
+    <li><p align="left"><i>Imperial College London</i></p>, <p align="right">2017-2018</p></li>
     <li><b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b></li>
   </ul>
 </div>
