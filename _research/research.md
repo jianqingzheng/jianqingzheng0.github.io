@@ -160,7 +160,7 @@ permalink: /research/
       <ul>
         <li>Programed data processing.</li>
         <li>Programed data augmentation.</li>
-        <li>Trained U-Net as the generator.</li>
+        <li>Trained U-Net as the generator, and CNN as the discriminator.</li>
       </ul>
     </li>
     <li>[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-estimation_li">publication</a></u>]</li>
