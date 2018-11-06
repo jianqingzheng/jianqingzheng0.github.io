@@ -59,6 +59,7 @@ permalink: /education/
 <hr color="000000"/>
 
 ## <i>Imperial College London</i>, 2017-2018 ##
+* Department of Surgery and Cancer
 * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
@@ -72,6 +73,7 @@ permalink: /education/
 </div>
 
 ## <i>University of Liverpool</i>, 2015-2017 ##
+* Department of Electrical and Electronic Engineering
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering (1st Class Honours)</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
