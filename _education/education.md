@@ -73,7 +73,7 @@ permalink: /education/
 </div>
 
 ## <i>University of Liverpool</i>, 2015-2017 ##
-* Department of Electrical and Electronic Engineering
+* Department of Electrical Engineering & Electronic 
 * <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering (1st Class Honours)</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
