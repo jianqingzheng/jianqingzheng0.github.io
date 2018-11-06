@@ -100,6 +100,7 @@ permalink: /education/
 </div>
 
 ## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015 ##
+* Department of Electrical and Electronic Engineering
 * <b>B.Eng. in Telecommunication Engineering</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
