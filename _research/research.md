@@ -36,7 +36,8 @@ permalink: /research/
   <br/>
   <img src='/images/aaaseg2d_2.gif' />
   <img src='/images/aaaseg3d.png' />
-  <img src='/images/aaareg.jpg' />
+  <img src='/images/demo-recover.gif' />
+  <img src='/images/demo-visual.gif' />
   </fieldset>
 </div>
 <hr color="#FFFFFF" />
