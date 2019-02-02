@@ -31,7 +31,7 @@ permalink: /research/
         <li>Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.</li>
       </ul>
     </li>
-    <li>[<u><a href="https://jianqingzheng.github.io/publication/ICRA2019-3d_zheng">publication1</a></u>][<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication2</a></u>][<u><a href="https://github.com/jianqingzheng/path_planning_for_FEVAR">code</a></u>]</li>
+    <li>[<u><a href="https://jianqingzheng.github.io/publication/ICRA2019-3d_zheng">publication1</a></u>],[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication2</a></u>],[<u><a href="https://github.com/jianqingzheng/path_planning_for_FEVAR">code</a></u>]</li>
   </ul>
   <br/>
   <img src='/images/aaaseg2d_2.gif' />
