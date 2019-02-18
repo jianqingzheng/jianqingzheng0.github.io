@@ -24,7 +24,7 @@ redirect_from:
 
 # Awards
 
-* <b>£6000 Bursary</b>, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
+* <b>Bursary</b>, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
 * <b>Honourable Mention</b>, Interdisciplinary Contests in Modelling, <i>COMAP</i>, 2015
 * <b>Outstanding Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2015
 * <b>Second Prize Winner</b>, Mathematical Contest in Modelling, <i>Xi'an Jiaotong-Liverpool University</i>, 2014
@@ -44,7 +44,7 @@ redirect_from:
 
 * <b>Languages</b>
   * Mandarin (Native), English (Fluent)
-* <b>Computer</b>
+* <b>Computer Skills</b>
   * MATLAB, Python, C, C++, AHDL
   
 ---
