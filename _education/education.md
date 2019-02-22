@@ -60,11 +60,11 @@ permalink: /education/
 
 
 
-## <i>University of Oxford</i>, 2017-2018 ##
+## <i>University of Oxford</i>, 2019-2023 ##
 * Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
 * <b>D.Phil in Molecular and Cellular Medicine (expected)</b>
 
-## <i>Imperial College London</i>, 2019-2023 ##
+## <i>Imperial College London</i>, 2017-2018 ##
 * Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer
 * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
