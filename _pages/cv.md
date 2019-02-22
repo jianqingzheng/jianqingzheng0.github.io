@@ -12,7 +12,9 @@ redirect_from:
 <hr color="000000"/>
 
 # Education
-  
+
+* <i>University of Oxford</i>, 2019-2023
+  * <b>D.Phil in Molecular and Cellular Medicine (expected)</b>
 * <i>Imperial College London</i>, 2017-2018
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
 * <i>University of Liverpool</i>, 2015-2017
@@ -24,7 +26,8 @@ redirect_from:
 
 # Awards
 
-* <b>Bursary</b>, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
+* <b>Kennedy Trust Prize Studentship</b> for 4-year DPhil programme , <i>The Kennedy Trust for Rheumatology Research</i>, 2019
+* <b>Bursary</b> for 1-year MRes programme, <i>The Hamlyn Centre for Robotic Surgery, Imperical College London</i>, 2017
 * <b>Honourable Mention</b>, Interdisciplinary Contests in Modelling, <i>COMAP</i>, 2015
 * <b>Outstanding Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2015
 * <b>Second Prize Winner</b>, Mathematical Contest in Modelling, <i>Xi'an Jiaotong-Liverpool University</i>, 2014
