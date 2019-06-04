@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-// “The explanation requiring the fewest assumptions is most likely to be correct.”
-// --- William of Ockham 
+<“The explanation requiring the fewest assumptions is most likely to be correct.”
+ --- William of Ockham> 
 
 
 I am a DPhil student in the Kennedy institute at the University of Oxford under the supervision of Dr. Ngee Han Lim and Dr. Bartlomiej Papiez. Before that I obtained a MRes degree in the Hamlyn Center for Robotic Surgery at the Imperial College London under the supervision of Prof. Guang-Zhong Yang, and a BEng degree in Department of Electrical Engineering & Electronics at the University of Liverpool.
