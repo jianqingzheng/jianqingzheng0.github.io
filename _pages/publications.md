@@ -8,7 +8,7 @@ author_profile: true
 <hr color="000000"/>
 
 
-You can also find my articles on <u><a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You may find my more articles and preprint on <u><a href="https://scholar.google.co.uk/citations?user=2bNsYR0AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
