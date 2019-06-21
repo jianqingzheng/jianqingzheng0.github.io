@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/HSMR2018-estimation_li
 excerpt: ''
 date: 2018-4-19
-venue: 'The Hamlyn Symposium on Medical Robotics (HSMR)'
+venue: 'The 11th Hamlyn Symposium on Medical Robotics (HSMR2018)'
 paperurl: 'https://www.ukras.org/wp-content/uploads/2018/10/proceedings_HSMR18_lo-4.pdf'
 citation: 'Q. B. Li, X. Y. Zhou, J. Lin, <b>J. Q. Zheng</b>, N. T. Clancy, and D. S. Elson, "Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation", in <i>Proc. of the Hamlyn Symposium on Medical Robotics (HSMR)</i>, 2018.'
 ---
