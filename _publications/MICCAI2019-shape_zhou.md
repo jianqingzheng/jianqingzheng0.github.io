@@ -3,8 +3,8 @@ title: "Shape Instantiation from a Single 2D Image to 3D Point Cloud with One-st
 collection: publications
 permalink: /publication/MICCAI2019-shape_zhou
 excerpt: ''
-date: 2019-10
-venue: 'The 22 nd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)，2019'
+date: 2019-10-17
+venue: 'The 22 nd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI2019)'
 paperurl: ''
 citation: ''
 ---
