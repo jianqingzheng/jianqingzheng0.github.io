@@ -1,7 +1,7 @@
 ---
 title: "Motor Imagery Classification based on RNNs with Spatiotemporal-Energy Feature Extraction"
 collection: publications
-permalink: /publication/UK-RAS2017-motor_zhang
+permalink: /publications/UK-RAS2017-motor_zhang
 excerpt: ''
 date: 2017-12-1
 venue: 'The UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS2017)'
