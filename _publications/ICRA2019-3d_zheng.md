@@ -1,5 +1,5 @@
 ---
-title: "3D Path Planning from a Single 2D Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair"
+title: "Towards 3D Path Planning from a Single 2D Fluoroscopic Image for Fenestrated Endovascular Aortic Repair"
 collection: publications
 permalink: /publication/ICRA2019-3d_zheng
 excerpt: ''
