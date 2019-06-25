@@ -62,7 +62,7 @@ redirect_from:
   {% endfor %}</ul>
 
 ## <i>Conference</i>
-  <ul>{% for post in site.Conference %}
+  <ul>{% for post in site.conference %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
