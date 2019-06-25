@@ -56,10 +56,16 @@ redirect_from:
 
 # Publications
 
-## <i>Conference</i>
-  <ul>{% for post in site.publications %}
+## <i>Journal</i>
+  <ul>{% for post in site.journal %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## <i>Conference</i>
+  <ul>{% for post in site.Conference %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ## <i>Patent</i>
   <ul>{% for post in site.patent %}
     {% include archive-single-cv.html %}
