@@ -13,9 +13,14 @@ You may find my more articles and preprint on <u><a href="https://scholar.google
 
 {% include base_path %}
 <br>
+# <i>Journal</i>
+{% for post in site.journal reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+<br>
 
 # <i>Conference</i>
-{% for post in site.publications reversed %}
+{% for post in site.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
 <br>
