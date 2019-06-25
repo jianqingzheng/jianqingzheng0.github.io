@@ -1,7 +1,7 @@
 ---
 title: "Abdominal Aortic Aneurysm Segmentation with a Small Number of Training Subjects"
 collection: publications
-permalink: /publication/HSMR2018-abdominal_zheng
+permalink: /publications/HSMR2018-abdominal_zheng
 excerpt: ''
 date: 2018-4-19
 venue: 'The 11th Hamlyn Symposium on Medical Robotics (HSMR2018)'
