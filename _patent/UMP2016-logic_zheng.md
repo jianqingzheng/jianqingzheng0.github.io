@@ -1,7 +1,7 @@
 ---
 title: "Application of the capacitive touch control sensing device controlled using logic circuit"
 collection: publications
-permalink: /publication/UMP2016-logic_zheng
+permalink: /publications/UMP2016-logic_zheng
 excerpt: ''
 date: 2016-7-6
 venue: ''
