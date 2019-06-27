@@ -1,6 +1,6 @@
 ---
 title: "Real-time 3D Shape Instantiation for Partially-deployed Stent Segment from a Single 2D Fluoroscopic Image in Fenestrated Endovascular Aortic Repair"
-collection: publications
+collection: journal
 permalink: /publications/RAL2019-real_zheng
 excerpt: ''
 date: 2019-11-8
