@@ -261,7 +261,7 @@ defaults:
   # _conference
   - scope:
       path: ""
-      type: conference
+      type: publications
     values:
       layout: single
       author_profile: true
