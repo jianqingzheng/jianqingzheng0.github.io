@@ -13,7 +13,7 @@ redirect_from:
 
 # Education
 
-* <i>University of Oxford</i>, 2019-2023
+* <i>University of Oxford</i>, 2019-
   * <b>D.Phil. in Molecular and Cellular Medicine (expected)</b>
 * <i>Imperial College London</i>, 2017-2018
   * <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
