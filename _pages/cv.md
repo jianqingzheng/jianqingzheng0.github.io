@@ -37,12 +37,19 @@ redirect_from:
 
 ---
 
-# Work experience
+# Work experiences
 
 * 2019 <b>Research Intern</b>, <i>Shanghai Jiao Tong University</i>
 * 2018-19 <b>Research Assistant</b>, <i>Imperial College London</i>
 * 2017 <b>Technical Development and Algorithm Design Intern</b>, <i>AlgoLib Ltd</i>
   
+---
+
+# Academic Services
+
+* <b>Reviewer</b>, IEEE International Conference on Robotic and Automation (ICRA) 2019
+* <b>Reviewer</b>, UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2017
+
 ---
 
 # Skills
