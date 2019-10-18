@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Experiences and Academic Services"
+title: "Work & Services"
 permalink: /work/
 author_profile: true
 redirect_from:
