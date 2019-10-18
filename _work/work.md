@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Work and Intern
+# Work Experiences
 
 * 2019 <b>Research Intern</b>, <i>Shanghai Jiao Tong University</i>
   * Implement a program for simulation of orthopedic surgery based on C++ with VTK package.
