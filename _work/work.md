@@ -28,5 +28,5 @@ redirect_from:
 
 * <b>Reviewer</b>, IEEE International Conference on Robotic and Automation (ICRA) 2019
 
-* <b>Reviewer</b>, UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2017
+* <b>Reviewer</b>, UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019
 
