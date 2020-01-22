@@ -9,6 +9,6 @@ citation: 'X. Y. Zhou, Z. Y. Wang, P. C. Li, <b>J. Q. Zheng</b> and G. Z. Yang, 
 
 ---
 
-[Publication](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_4)
+[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_4)
 <!-- paperurl: '' 
 -->
