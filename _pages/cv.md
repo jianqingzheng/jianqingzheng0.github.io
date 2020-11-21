@@ -26,13 +26,13 @@ redirect_from:
 
 # Awards
 
-* <b>Kennedy Trust Prize Studentship</b> for 4-year DPhil programme , <i>The Kennedy Trust for Rheumatology Research</i>, 2019
-* <b>Bursary</b> for 1-year MRes programme, <i>The Helen Hamlyn Trust</i>, 2017
-* <b>Scholarship</b> for reduction of the 2-year tuition fee, <i>University of Liverpool</i>, 2015
-* <b>Honourable Mention</b>, Interdisciplinary Contests in Modelling, <i>COMAP</i>, 2015
+* <b>Winner</b> in the 15th ChunHui Cup Innovation & Enrepreneurship Competition for Chinese oversea students, <i>Ministry of Education and Ministry of Science and Technology, PRC</i>, 2020
+* <b>Kennedy Trust Prize Studentship</b> for 4-year DPhil programme, <i>The Kennedy Trust for Rheumatology Research</i>, 2019=23
+* <b>Bursary</b> for 1-year MRes programme, <i>The Helen Hamlyn Trust</i>, 2017-18
+* <b>Scholarship</b> for reduction of the 2-year tuition fee, <i>University of Liverpool</i>, 2015-17
+* <b>Honourable Mention</b>, Interdisciplinary Contests in Modelling, <i>Consortium for Mathematics and its Applications</i>, 2015
 * <b>Outstanding Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2015
 * <b>Second Prize Winner</b>, Mathematical Contest in Modelling, <i>Xi'an Jiaotong-Liverpool University</i>, 2014
-* <b>Accomplished Competitor</b>, University Physics Competition, <i>American Physical Society</i>, 2014
 * <b>Excellent Student</b>, <i>Xi'an Jiaotong-Liverpool University</i>, 2013
 
 ---
