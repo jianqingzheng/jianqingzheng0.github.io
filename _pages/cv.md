@@ -25,7 +25,7 @@ redirect_from:
 ---
 
 # Awards
-
+* <b>Barbara Craig Grant</b>, <i>Somerville College, University of Oxford</i>, 2021
 * <b>Winner</b> in the 15th ChunHui Cup Innovation & Enrepreneurship Competition for Chinese oversea students, <i>Ministry of Education and Ministry of Science and Technology, PRC</i>, 2020
 * <b>Kennedy Trust Prize Studentship</b> for 4-year DPhil programme, <i>The Kennedy Trust for Rheumatology Research</i>, 2019-23
 * <b>Bursary</b> for 1-year MRes programme, <i>The Helen Hamlyn Trust</i>, 2017-18
