@@ -43,18 +43,9 @@ redirect_from:
 
 # Academic Services
 
-* <b>Reviewer</b>, IEEE International Conference on Robotic and Automation (ICRA) 2019
-* <b>Reviewer</b>, UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019
+* <b>Journal Reviewer</b>, IEEE Transaction on Robotics (T-RO), Computer Methods and Programs in Biomedicine (CMPB)
+* <b>Conference Reviewer</b>, European Conference on Computer Vision (ECCV) 2022, IEEE International Conference on Robotic and Automation (ICRA) 2019; UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019
 
----
-
-# Skills
-
-* <b>Languages</b>
-  * Mandarin (Native), English (Fluent)
-* <b>Computer Skills</b>
-  * MATLAB, Python, C, C++, AHDL
-  
 ---
 
 # Publications
