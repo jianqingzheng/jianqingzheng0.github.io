@@ -43,8 +43,8 @@ redirect_from:
 
 # Academic Services
 
-* <b>Journal Reviewer</b>, IEEE Transaction on Robotics (T-RO), Computer Methods and Programs in Biomedicine (CMPB)
-* <b>Conference Reviewer</b>, European Conference on Computer Vision (ECCV) 2022, IEEE International Conference on Robotic and Automation (ICRA) 2019; UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019
+* <b>Journal Reviewer</b>: IEEE Transaction on Robotics (T-RO), Computer Methods and Programs in Biomedicine (CMPB)
+* <b>Conference Reviewer</b>: European Conference on Computer Vision (ECCV) 2022, IEEE International Conference on Robotic and Automation (ICRA) 2019, UK-RAS Network Conference on Robotics and Autonomous Systems (UK-RAS) 2019
 
 ---
 
