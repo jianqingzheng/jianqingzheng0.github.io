@@ -10,5 +10,6 @@ citation: H. Lou*, <b>J. Q. Zheng*</b>,  X. Fang, <i>et al</i> “Deep learning-
 
 ---
 [Paper](https://www.nature.com/articles/s41422-022-00727-6), [Code](https://github.com/jianqingzheng/XBCR-net), 
-[case-study](https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies)
+
+[News-eng.ox.ac.uk](https://eng.ox.ac.uk/case-studies/artificial-intelligence-and-big-data-help-rapid-screening-antibodies),
 [南开要闻](http://news.nankai.edu.cn/ywsd/system/2022/10/12/030053111.shtml)
